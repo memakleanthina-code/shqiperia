@@ -1,4 +1,3 @@
-[shqiperiaemesme.html.html](https://github.com/user-attachments/files/27734778/shqiperiaemesme.html.html)
 <!DOCTYPE html>
 <html lang="sq">
 <head>
